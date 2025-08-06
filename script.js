@@ -1,0 +1,1 @@
+console.log('VEIGO System Loaded');
